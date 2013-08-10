@@ -1,0 +1,30 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="233" measuredH="46" mockupW="173" mockupH="26">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="60" y="20" w="173" h="26" measuredW="173" measuredH="26" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>oAuth%20Twitter%20Login%20Button</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="173" h="26" measuredW="173" measuredH="26" zOrder="0" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="0" y="0" w="173" h="26" measuredW="145" measuredH="27" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <color>13576743</color>
+                <text>%20%20%20%20%20Login%20with.Twitter</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::VRule" x="25" y="4" w="-1" h="13" measuredW="10" measuredH="100" zOrder="1" locked="false" isInGroup="0"/>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="9" y="0" w="-1" h="-1" measuredW="12" measuredH="26" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <bold>true</bold>
+                <italic>true</italic>
+                <size>18</size>
+                <text>P</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
