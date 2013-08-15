@@ -1,0 +1,14 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1376601904000 3373 1bdb67fc4b8644b0712de068047f3c852c09a6f5 /Users/geps/Dev/src/android/RestoriusProject/Restorius/build/res/all/debug/values/values.xml
+1376601904000 458 b2af687450d3ef6918168a3ab1ee0b167c2adaf2 /Users/geps/Dev/src/android/RestoriusProject/Restorius/build/res/all/debug/values-large/values.xml
+1376601100000 1951 159acee5307c731c7a428b778c925d5460bfd3b1 /Users/geps/Dev/src/android/RestoriusProject/Restorius/build/res/all/debug/layout/activity_fullscreen.xml
+1376601100000 6120 ced3785afb467e5670c9c7db0d3a345d15454ea5 /Users/geps/Dev/src/android/RestoriusProject/Restorius/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1376601100000 921 91d3c37209fb23dfb03ef2ea0078fa315e055794 /Users/geps/Dev/src/android/RestoriusProject/Restorius/build/res/all/debug/values-v11/values.xml
+1376601100000 3156 be9d6d2174e9cbaabca59e8090160434dbd60002 /Users/geps/Dev/src/android/RestoriusProject/Restorius/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1376601100000 331 77617b0152e719e59bf99459d35a3e13ce363f9c /Users/geps/Dev/src/android/RestoriusProject/Restorius/build/res/all/debug/values-v14/values.xml
+1376601904000 332 eeb29b7291af3266f2cc3a58a0547d873d8f6277 /Users/geps/Dev/src/android/RestoriusProject/Restorius/build/res/all/debug/menu/login_or_signup.xml
+1376601100000 9487 7e58a59b9c3cf7a7a1df12376c329591dd31f5e4 /Users/geps/Dev/src/android/RestoriusProject/Restorius/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1376601100000 18087 8d35b7c0e81c9caf7ee547905d69c9542a08b87f /Users/geps/Dev/src/android/RestoriusProject/Restorius/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1376601904000 2972 315ccc0c4e0c9bc266571a04c3b27af4f82c902c /Users/geps/Dev/src/android/RestoriusProject/Restorius/build/res/all/debug/layout/activity_login.xml

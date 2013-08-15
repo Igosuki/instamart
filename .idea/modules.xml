@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Restorius/Restorius.iml" filepath="$PROJECT_DIR$/Restorius/Restorius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestoriusProject.iml" filepath="$PROJECT_DIR$/RestoriusProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restorius.iml" filepath="$PROJECT_DIR$/restorius.iml" />
+    </modules>
+  </component>
+</project>
+
