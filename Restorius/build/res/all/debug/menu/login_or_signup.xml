@@ -3,4 +3,4 @@
         android:title="@string/action_forgot_password"
         android:showAsAction="never" />
 </menu>
-<!-- From: file:/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/menu/login_or_signup.xml -->
+<!-- From: file:/Users/geps/Dev/src/restorius/Restorius/src/main/res/menu/login_or_signup.xml -->

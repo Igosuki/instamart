@@ -2,8 +2,10 @@ package com.gepsens.restorius;
 
 import android.app.Application;
 
+import com.gepsens.restorius.model.Recipe;
 import com.parse.Parse;
 import com.parse.ParseACL;
+import com.parse.ParseObject;
 import com.parse.ParseUser;
 
 /**
@@ -15,6 +17,7 @@ public class RestoriusApplication extends Application {
         super.onCreate();
 
         // Add your initialization code here
+        ParseObject.registerSubclass(Recipe.class);
         Parse.initialize(this, "NpkkdCWUFBFewPJQeRr9na7uOvV9xOrbjffTcJcv", "XkgYgwDuO7vG6EedaApHincZtEVW36CRbIbVbpr9");
 
 

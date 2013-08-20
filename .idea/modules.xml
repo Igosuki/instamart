@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Restorius/Restorius.iml" filepath="$PROJECT_DIR$/Restorius/Restorius.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestoriusProject.iml" filepath="$PROJECT_DIR$/RestoriusProject.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/TreehouseParseWorkshop_FINAL.iml" filepath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/TreehouseParseWorkshop_FINAL.iml" />
       <module fileurl="file://$PROJECT_DIR$/restorius.iml" filepath="$PROJECT_DIR$/restorius.iml" />
     </modules>
   </component>

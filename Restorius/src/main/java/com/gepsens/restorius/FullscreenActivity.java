@@ -1,6 +1,6 @@
 package com.gepsens.restorius;
 
-import com.gepsens.myapplication.R;
+import com.gepsens.restorius.R;
 import com.gepsens.restorius.util.SystemUiHider;
 import com.parse.ParseAnalytics;
 

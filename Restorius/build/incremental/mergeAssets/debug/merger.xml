@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/assets" />
+        <source path="/Users/geps/Dev/src/restorius/Restorius/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/debug/assets" />
+        <source path="/Users/geps/Dev/src/restorius/Restorius/src/debug/assets" />
     </dataSet>
 
 </merger>

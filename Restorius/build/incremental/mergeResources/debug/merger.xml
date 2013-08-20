@@ -2,34 +2,64 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res" >
+        <source path="/Users/geps/Dev/src/restorius/Restorius/src/main/res" >
             <file
                 name="ic_launcher"
-                path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/drawable-hdpi/ic_launcher.png"
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/drawable-mdpi/ic_launcher.png"
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/drawable-xhdpi/ic_launcher.png"
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/drawable-xxhdpi/ic_launcher.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="activity_fullscreen"
-                path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/layout/activity_fullscreen.xml"
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/layout/activity_fullscreen.xml"
                 qualifiers=""
                 type="layout" />
             <file
-                path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/values/attrs.xml"
+                name="activity_login"
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/layout/activity_login.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="recipe_grid_item"
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/layout/recipe_grid_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="recipe_search_grid"
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/layout/recipe_search_grid.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="general_options"
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/menu/general_options.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="login_or_signup"
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/menu/login_or_signup.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="recipe_dashboard"
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/menu/recipe_dashboard.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/values/attrs.xml"
                 qualifiers="" >
                 <declare-styleable name="ButtonBarContainerTheme" >
                     <attr
@@ -41,35 +71,74 @@
                 </declare-styleable>
             </file>
             <file
-                path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/values/colors.xml"
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/values/colors.xml"
                 qualifiers="" >
                 <color name="black_overlay" >#66000000
                 </color>
             </file>
             <file
-                path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/values/strings.xml"
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/values/dimens.xml"
                 qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="help" >Help
+                </string>
                 <string name="app_name" >Restorius
                 </string>
                 <string name="dummy_content" >DUMMY\nCONTENT
                 </string>
+                <string name="logout" >Logout
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
                 <string name="dummy_button" >Dummy Button
+                </string>
+                <string name="title_activity_recipe_dashboard" >RecipeDashboardActivity
                 </string>
             </file>
             <file
-                path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/values/styles.xml"
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/values/strings_activity_login_or_signup.xml"
                 qualifiers="" >
-
-                <style
-                    name="AppBaseTheme"
-                    parent="android:Theme.Light" >
-
-                    <!--
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-                    -->
-                </style>
+                <string name="login_progress_registering" >Registering
+                </string>
+                <string name="prompt_email" >Email
+                </string>
+                <string name="login_progress_signing_in" >Signing in…
+                </string>
+                <string name="action_sign_in_short" >Sign in
+                </string>
+                <string name="title_activity_login_or_signup" >Sign in
+                </string>
+                <string name="error_field_required" >This field is required
+                </string>
+                <string name="error_invalid_email" >This email address is invalid
+                </string>
+                <string name="action_sign_in_register" ><b>
+Sign in
+                    </b> or register
+                </string>
+                <string name="prompt_password" >Password
+                </string>
+                <string name="error_incorrect_password" >This password is incorrect
+                </string>
+                <string name="action_forgot_password" >Recover lost password
+                </string>
+                <string name="action_register_short" >Register
+                </string>
+                <string name="error_invalid_password" >This password is too short
+                </string>
+            </file>
+            <file
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/values/styles.xml"
+                qualifiers="" >
 
                 <style name="ButtonBar" >
                     <item name="android:paddingLeft">
@@ -87,6 +156,17 @@
                     <item name="android:background">
 @android:drawable/bottom_bar
                     </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
                 </style>
 
                 <style
@@ -131,7 +211,32 @@ center
                 </style>
             </file>
             <file
-                path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/values-v11/styles.xml"
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/values-large/styles.xml"
+                qualifiers="large" >
+
+                <style name="LoginFormContainer" >
+                    <item name="android:layout_width">
+400dp
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:layout_gravity">
+center
+                    </item>
+                    <item name="android:padding">
+16dp
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/values-v11/styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -170,7 +275,7 @@ true
                 </style>
             </file>
             <file
-                path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/values-v14/styles.xml"
+                path="/Users/geps/Dev/src/restorius/Restorius/src/main/res/values-v14/styles.xml"
                 qualifiers="v14" >
 
                 <style
@@ -180,68 +285,11 @@ true
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
-            <file
-                name="activity_login"
-                path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/layout/activity_login.xml"
-                qualifiers=""
-                type="layout" />
-            <file
-                path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/values/strings_activity_login_or_signup.xml"
-                qualifiers="" >
-                <string name="error_field_required" >This field is required
-                </string>
-                <string name="error_invalid_email" >This email address is invalid
-                </string>
-                <string name="login_progress_signing_in" >Signing in…
-                </string>
-                <string name="action_sign_in_register" ><b>
-Sign in
-                    </b> or register
-                </string>
-                <string name="prompt_email" >Email
-                </string>
-                <string name="action_sign_in_short" >Sign in
-                </string>
-                <string name="prompt_password" >Password
-                </string>
-                <string name="error_incorrect_password" >This password is incorrect
-                </string>
-                <string name="action_forgot_password" >Recover lost password
-                </string>
-                <string name="error_invalid_password" >This password is too short
-                </string>
-                <string name="title_activity_login_or_signup" >Sign in
-                </string>
-            </file>
-            <file
-                path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/values-large/styles.xml"
-                qualifiers="large" >
-
-                <style name="LoginFormContainer" >
-                    <item name="android:layout_width">
-400dp
-                    </item>
-                    <item name="android:layout_height">
-wrap_content
-                    </item>
-                    <item name="android:layout_gravity">
-center
-                    </item>
-                    <item name="android:padding">
-16dp
-                    </item>
-                </style>
-            </file>
-            <file
-                name="login_or_signup"
-                path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/menu/login_or_signup.xml"
-                qualifiers=""
-                type="menu" />
         </source>
-        <source path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/build/res/rs/debug" />
+        <source path="/Users/geps/Dev/src/restorius/Restorius/build/res/rs/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/debug/res" />
+        <source path="/Users/geps/Dev/src/restorius/Restorius/src/debug/res" />
     </dataSet>
 
 </merger>

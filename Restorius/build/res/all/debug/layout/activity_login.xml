@@ -57,17 +57,36 @@
                 android:imeActionId="@+id/login"
                 android:imeOptions="actionUnspecified" />
 
-            <Button android:id="@+id/sign_in_button"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="16dp"
-                android:text="@string/action_sign_in_register"
-                android:paddingLeft="32dp"
-                android:paddingRight="32dp"
-                android:layout_gravity="right" />
+            <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center">
+
+                <Button
+                        android:id="@+id/btn_sign"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="16dp"
+                        android:text="@string/action_sign_in_short"
+                        android:paddingLeft="32dp"
+                        android:paddingRight="32dp"
+                        android:layout_gravity="center"
+                        android:singleLine="false"/>
+
+                <Button
+                        android:id="@+id/btn_register"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="16dp"
+                        android:text="@string/action_register_short"
+                        android:paddingLeft="32dp"
+                        android:paddingRight="32dp"
+                        android:layout_gravity="center"
+                        android:singleLine="false"/>
+            </LinearLayout>
 
         </LinearLayout>
 
     </ScrollView>
 </merge>
-<!-- From: file:/Users/geps/Dev/src/android/RestoriusProject/Restorius/src/main/res/layout/activity_login.xml -->
+<!-- From: file:/Users/geps/Dev/src/restorius/Restorius/src/main/res/layout/activity_login.xml -->

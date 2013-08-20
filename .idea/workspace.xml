@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="" />
+        <option name="name" value="Unnamed-0" />
+        <option name="packageNamePattern" value="com.gepsens.restorius" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
   <component name="AndroidLayoutPreviewToolWindow">
     <option name="state">
-      <GlobalState />
+      <GlobalState>
+        <option name="visible" value="false" />
+      </GlobalState>
     </option>
   </component>
   <component name="AndroidLayouts">
@@ -19,10 +33,233 @@
     </layouts>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="DEBUG" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64ee3691-c92e-45d6-9727-7ff37279b6fb" name="Default" comment="" />
+    <list default="true" id="64ee3691-c92e-45d6-9727-7ff37279b6fb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Restorius/build/source/buildConfig/debug/com/gepsens/restorius/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Restorius/build/source/r/debug/com/gepsens/restorius/R.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Restorius/build/apk/Restorius-debug-unaligned.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Restorius/build/source/buildConfig/debug/com/gepsens/myapplication/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Restorius/build/source/r/debug/com/gepsens/myapplication/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/ReadMe.apk" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/R.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/ReadMe.apk" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/actionbarsherlock/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/actionbarsherlock/R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/actionbarsherlock/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/actionbarsherlock/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/actionbarsherlock/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/actionbarsherlock/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/actionbarsherlock/R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/actionbarsherlock/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/actionbarsherlock/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/actionbarsherlock/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/actionbarsherlock/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/actionbarsherlock/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/github/rtyley/android/sherlock/roboguice/RoboSherlockAccountAuthenticatorActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/github/rtyley/android/sherlock/roboguice/RoboSherlockActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/github/rtyley/android/sherlock/roboguice/RoboSherlockDialogFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/github/rtyley/android/sherlock/roboguice/RoboSherlockFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/github/rtyley/android/sherlock/roboguice/RoboSherlockFragmentActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/github/rtyley/android/sherlock/roboguice/RoboSherlockListActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/github/rtyley/android/sherlock/roboguice/RoboSherlockListFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/github/rtyley/android/sherlock/roboguice/RoboSherlockPreferenceActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/github/rtyley/android/sherlock/roboguice/SherlockAccountAuthenticatorActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/handmark/pulltorefresh/library/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/handmark/pulltorefresh/library/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/handmark/pulltorefresh/library/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/handmark/pulltorefresh/library/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/handmark/pulltorefresh/library/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/handmark/pulltorefresh/library/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/handmark/pulltorefresh/library/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/handmark/pulltorefresh/library/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/handmark/pulltorefresh/library/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/AddLinkActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/AddLinkActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/AuthenticateActivity$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/AuthenticateActivity$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/AuthenticateActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/AuthenticateActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/LoginOrSignupActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/LoginOrSignupActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/LoginOrSignupActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/MainFeedActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/MainFeedActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/MainFeedActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/ReadMeApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/SelectUsersActivity$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/SelectUsersActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/SelectUsersActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/UsersAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/UsersAdapter$ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/UsersAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/dexedLibs/Parse-1.1.12-88761832bf2f68378a8bee66938c89a2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/dexedLibs/android-smart-image-view-1.0.0-e71a56be7f604af1a19bd4f8c162e7f3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/dexedLibs/android-support-v4-1aaa11501854cfe00cb0aa6a5be41d24.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/dexedLibs/gson-2.1-400a215aa0eec78ff17fdd6341d82831.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/dexedLibs/guice-3.0-no_aop-5e0f1aedf1caffc556a678efc2b63231.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/dexedLibs/javax.inject-23bc393bcb0bb44d881dba6a8cc602d0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/dexedLibs/library-b0bebbc91e258382a16b430f95606bdd.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/dexedLibs/pulltorefresh-9faa7ff6d540a1733937f371d2efb63a.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/dexedLibs/robo-sherlock-b6e705005fe31bd8a3c819845406021d.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/dexedLibs/roboguice-2.0-52a1c2a907a0ca5e22bdd84b35d14cdd.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/jarlist.cache" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/gen/com/actionbarsherlock/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/gen/com/handmark/pulltorefresh/library/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/allclasses-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/allclasses-noframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/CountCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/DeleteCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/FindCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/FunctionCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/GetCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/GetDataCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/LogInCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/Parse.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ParseACL.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ParseAnonymousUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ParseCloud.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ParseException.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ParseFacebookUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ParseFile.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ParseGeoPoint.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ParseInstallation.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ParseObject.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ParsePush.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ParseQuery.CachePolicy.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ParseQuery.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ParseRelation.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ParseRole.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ParseTwitterUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ParseUser.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/ProgressCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/PushCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/PushService.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/RefreshCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/RequestPasswordResetCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/SaveCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/SendCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/SignUpCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/StandardPushCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/CountCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/DeleteCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/FindCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/FunctionCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/GetCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/GetDataCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/LogInCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/Parse.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ParseACL.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ParseAnonymousUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ParseCloud.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ParseException.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ParseFacebookUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ParseFile.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ParseGeoPoint.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ParseInstallation.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ParseObject.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ParsePush.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ParseQuery.CachePolicy.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ParseQuery.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ParseRelation.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ParseRole.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ParseTwitterUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ParseUser.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/ProgressCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/PushCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/PushService.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/RefreshCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/RequestPasswordResetCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/SaveCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/SendCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/SignUpCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/class-use/StandardPushCallback.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/com/parse/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/constant-values.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/deprecated-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/help-doc.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/index-all.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/overview-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/package-list" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/resources/inherit.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/serialized-form.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12-javadoc/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/Parse-1.1.12.jar.properties" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/gson-2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/guice-3.0-no_aop.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/javax.inject.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/robo-sherlock.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/libs/roboguice-2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/github/rtyley/android/sherlock/roboguice/RoboSherlockAccountAuthenticatorActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/github/rtyley/android/sherlock/roboguice/RoboSherlockActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/github/rtyley/android/sherlock/roboguice/RoboSherlockDialogFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/github/rtyley/android/sherlock/roboguice/RoboSherlockFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/github/rtyley/android/sherlock/roboguice/RoboSherlockFragmentActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/github/rtyley/android/sherlock/roboguice/RoboSherlockListActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/github/rtyley/android/sherlock/roboguice/RoboSherlockListFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/github/rtyley/android/sherlock/roboguice/RoboSherlockPreferenceActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/github/rtyley/android/sherlock/roboguice/SherlockAccountAuthenticatorActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/teamtreehouse/readme/AddLinkActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/teamtreehouse/readme/AuthenticateActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/teamtreehouse/readme/LoginOrSignupActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/teamtreehouse/readme/MainFeedActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/teamtreehouse/readme/ReadMeApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/teamtreehouse/readme/SelectUsersActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/teamtreehouse/readme/UsersAdapter.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$attr.class" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$drawable.class" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$id.class" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$id.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$layout.class" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$menu.class" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$string.class" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$string.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$style.class" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R$style.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R.class" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes/com/teamtreehouse/readme/R.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes.dex" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/classes.dex" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/resources.ap_" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/resources.ap_" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/.classpath" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/.classpath" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/.project" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Restorius/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Restorius/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/AndroidManifest.xml" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/AndroidManifest.xml" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/bin/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/FullscreenActivity.java" afterPath="$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/FullscreenActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/LoginOrSignup.java" afterPath="$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/LoginOrSignup.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/gen/com/teamtreehouse/readme/R.java" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/gen/com/teamtreehouse/readme/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Restorius/Restorius.iml" afterPath="$PROJECT_DIR$/Restorius/Restorius.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/RestoriusApplication.java" afterPath="$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/RestoriusApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Restorius/build/res/all/debug/layout/activity_fullscreen.xml" afterPath="$PROJECT_DIR$/Restorius/build/res/all/debug/layout/activity_fullscreen.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Restorius/build/res/all/debug/layout/activity_login.xml" afterPath="$PROJECT_DIR$/Restorius/build/res/all/debug/layout/activity_login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Restorius/src/main/res/layout/activity_login.xml" afterPath="$PROJECT_DIR$/Restorius/src/main/res/layout/activity_login.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/res/layout/activity_main.xml" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/res/menu/activity_main_list.xml" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/res/menu/activity_main_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Restorius/build.gradle" afterPath="$PROJECT_DIR$/Restorius/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Restorius/build/res/all/debug/menu/login_or_signup.xml" afterPath="$PROJECT_DIR$/Restorius/build/res/all/debug/menu/login_or_signup.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/project.properties" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Restorius/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/Restorius/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/res/values/strings.xml" afterPath="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Restorius/src/main/res/values/strings_activity_login_or_signup.xml" afterPath="$PROJECT_DIR$/Restorius/src/main/res/values/strings_activity_login_or_signup.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_18_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_18_0_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Restorius/build/res/all/debug/values/values.xml" afterPath="$PROJECT_DIR$/Restorius/build/res/all/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Restorius/build/res/all/debug/values-large/values.xml" afterPath="$PROJECT_DIR$/Restorius/build/res/all/debug/values-large/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Restorius/build/res/all/debug/values-v11/values.xml" afterPath="$PROJECT_DIR$/Restorius/build/res/all/debug/values-v11/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Restorius/build/res/all/debug/values-v14/values.xml" afterPath="$PROJECT_DIR$/Restorius/build/res/all/debug/values-v14/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Restorius.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,91 +321,138 @@
     <favorites_list name="Restorius" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="RestoriusApplication.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/RestoriusApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="0.055762082" vertical-offset="0" max-vertical-offset="807">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FullscreenActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/FullscreenActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="60" selection-start="2834" selection-end="2834" vertical-scroll-proportion="0.0" vertical-offset="1110" max-vertical-offset="2520">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Restorius/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="1" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="510">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Restorius/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="16" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="660">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_login.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/layout/activity_login.xml">
-          <provider editor-type-id="text-editor">
-            <state line="35" column="47" selection-start="1462" selection-end="1462" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1170">
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_fullscreen.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/layout/activity_fullscreen.xml">
-          <provider editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/values/styles.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="68" selection-start="1340" selection-end="1350" vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="750">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/values-large/styles.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="240">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.56425947">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="activity_select_users.xml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/res/layout/activity_select_users.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="15" column="5" selection-start="554" selection-end="554" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RecipeDashboardActivity.java" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/RecipeDashboardActivity.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="48" column="50" selection-start="1548" selection-end="1548" vertical-scroll-proportion="0.5259166" vertical-offset="34" max-vertical-offset="825">
+                  <folding>
+                    <element signature="e#1344#1906#0" expanded="true" />
+                    <element signature="e#1895#1896#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="MainFeedActivity.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/teamtreehouse/parseworkshop/MainFeedActivity.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="58" column="16" selection-start="1528" selection-end="1528" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1560">
+                  <folding>
+                    <element signature="imports" expanded="false" />
+                    <element signature="e#1658#1683#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="select_users.xml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/res/menu/select_users.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="3" column="40" selection-start="98" selection-end="118" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="recipe_grid_item.xml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/layout/recipe_grid_item.xml">
+              <provider editor-type-id="android-designer">
+                <state />
+              </provider>
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="7" column="29" selection-start="333" selection-end="342" vertical-scroll-proportion="-3.8888888" vertical-offset="0" max-vertical-offset="210">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AddLinkActivity.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/teamtreehouse/parseworkshop/AddLinkActivity.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+                  <folding>
+                    <element signature="imports" expanded="false" />
+                    <element signature="e#889#1323#0" expanded="false" />
+                    <element signature="e#1318#1319#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="UsersAdapter.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/teamtreehouse/parseworkshop/UsersAdapter.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="48" column="37" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1965">
+                  <folding>
+                    <element signature="e#2482#2748#0" expanded="true" />
+                    <element signature="e#2743#2744#0" expanded="true" />
+                    <marker date="1376926824000" expanded="true" signature="2172:2341" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SelectUsersActivity.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/teamtreehouse/parseworkshop/SelectUsersActivity.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="62" column="38" selection-start="1931" selection-end="1931" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1260">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="user_list_item.xml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/res/layout/user_list_item.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="6" column="34" selection-start="266" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RecipesAdapter.java" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/adapters/RecipesAdapter.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="50" column="67" selection-start="1658" selection-end="1658" vertical-scroll-proportion="0.6776233" vertical-offset="214" max-vertical-offset="1005">
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="tasksExpandState">
@@ -200,38 +484,58 @@
         </entry>
       </map>
     </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1376602178000" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/myapplication/RestoriusApplication.java" />
-        <option value="$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/RestoriusApplication.java" />
-        <option value="$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/FullscreenActivity.java" />
-        <option value="$PROJECT_DIR$/Restorius/build.gradle" />
+        <option value="$PROJECT_DIR$/Restorius/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/Restorius/src/main/res/layout/activity_login.xml" />
-        <option value="$PROJECT_DIR$/Restorius/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/Restorius/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/Restorius/src/main/res/menu/general_options.xml" />
+        <option value="$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/FullscreenActivity.java" />
+        <option value="$PROJECT_DIR$/Restorius/src/main/res/layout/recipe_grid_item.xml" />
+        <option value="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/teamtreehouse/parseworkshop/UsersAdapter.java" />
+        <option value="$PROJECT_DIR$/Restorius/build.gradle" />
+        <option value="$PROJECT_DIR$/Restorius/src/main/java/com/mycompany/myapp/RecipeDashboardActivity.java" />
         <option value="$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/LoginOrSignup.java" />
+        <option value="$PROJECT_DIR$/Restorius/src/main/res/layout/recipe_search_grid.xml" />
+        <option value="$PROJECT_DIR$/Restorius/src/main/res/layout/progress_bar.xml" />
+        <option value="$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/RestoriusApplication.java" />
+        <option value="$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/model/Recipe.java" />
+        <option value="$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/RecipeDashboardActivity.java" />
+        <option value="$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/adapters/RecipesAdapter.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1680" />
-    <option name="height" value="955" />
+    <option name="height" value="952" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="library-invalid-classes-path(library:project:Parse-1.2.5)" />
+      <problem id="library-invalid-classes-path(library:project:support-v4-18.0.0)" />
+      <problem id="unused-library(library:project:Parse-1.2.5)" />
+    </ignored-problems>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -246,7 +550,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -258,6 +561,74 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="External Libraries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TreehouseParseWorkshop_FINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TreehouseParseWorkshop_FINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="teamtreehouse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parseworkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TreehouseParseWorkshop_FINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TreehouseParseWorkshop_FINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -306,31 +677,316 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restorius" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="options.lastSelected" value="preferences.keymap" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Parse-1.3.3/Parse-1.3.3.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="4df184753af34f91" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="AVD_for_Nexus_4_by_Google" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Restorius/libs" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.gepsens.restorius" />
     </key>
   </component>
   <component name="RunManager" selected="2d94f3c5-b10f-4991-a904-d1645c8e6e2b">
@@ -428,7 +1084,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
       <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
       <option name="COMMAND_LINE" value="" />
@@ -441,8 +1097,27 @@
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="Restorius_emulator" type="AndroidRunConfigurationType" factoryName="Android Application" id="2f8ec9aa-dd75-47a5-8c87-6a4fdbf4a267">
+      <module name="Restorius" />
+      <option name="ACTIVITY_CLASS" value="com.gepsens.restorius.LoginOrSignup" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="AVD_NEXUS4" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="true" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="2d94f3c5-b10f-4991-a904-d1645c8e6e2b" />
+      <item index="1" class="java.lang.String" itemvalue="2f8ec9aa-dd75-47a5-8c87-6a4fdbf4a267" />
     </list>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
@@ -485,62 +1160,63 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="955" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1680" height="952" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32965687" sideWeight="0.6706731" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32932693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12117503" sideWeight="0.27305388" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814372" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814372" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12117503" sideWeight="0.6706731" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32932693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26866585" sideWeight="0.671875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.6718563" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814372" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.6706731" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32932693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32932693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12117503" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26866585" sideWeight="0.671875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.6718563" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814372" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32965687" sideWeight="0.6706731" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.328125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12117503" sideWeight="0.27305388" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814372" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814372" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -555,118 +1231,141 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/layout/activity_fullscreen.xml">
-      <provider editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/values/styles.xml">
+    <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/menu/recipe_dashboard.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-          <folding />
+        <state line="6" column="0" selection-start="244" selection-end="244" vertical-scroll-proportion="0.16949153" vertical-offset="0" max-vertical-offset="531">
+          <folding>
+            <element signature="e#132#157#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/values-v14/styles.xml">
+    <entry file="file://$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/teamtreehouse/parseworkshop/UsersAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="381" selection-end="381" vertical-scroll-proportion="0.2238806" vertical-offset="0" max-vertical-offset="804">
-          <folding />
+        <state line="48" column="37" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1965">
+          <folding>
+            <element signature="e#2482#2748#0" expanded="true" />
+            <element signature="e#2743#2744#0" expanded="true" />
+            <marker date="1376926824000" expanded="true" signature="2172:2341" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Restorius/libs/Parse-1.3.3-javadoc/com/parse/class-use/Parse.html">
+    <entry file="file://$PROJECT_DIR$/Restorius/build/res/all/debug/layout/activity_login.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="9" selection-start="578" selection-end="578" vertical-scroll-proportion="0.5928854" vertical-offset="0" max-vertical-offset="2220" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Restorius/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="1" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+        <state line="6" column="35" selection-start="257" selection-end="257" vertical-scroll-proportion="0.17786561" vertical-offset="0" max-vertical-offset="1455">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/values-large/styles.xml">
+    <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/menu/general_options.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/LoginOrSignup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="24" selection-start="1766" selection-end="1766" vertical-scroll-proportion="-0.047169812" vertical-offset="895" max-vertical-offset="3540" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Restorius/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="16" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="530">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/values/strings_activity_login_or_signup.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="530">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Restorius/build/res/all/debug/values/values.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="58" selection-start="2674" selection-end="2674" vertical-scroll-proportion="0.34851485" vertical-offset="499" max-vertical-offset="1065" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/layout/activity_login.xml">
-      <provider editor-type-id="text-editor">
-        <state line="35" column="47" selection-start="1462" selection-end="1462" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1170">
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/layout/activity_fullscreen.xml">
-      <provider editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="68" selection-start="1340" selection-end="1350" vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="750">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/FullscreenActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="60" selection-start="2834" selection-end="2834" vertical-scroll-proportion="0.0" vertical-offset="781" max-vertical-offset="2205">
+        <state line="4" column="0" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/RestoriusApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="0.055762082" vertical-offset="0" max-vertical-offset="807">
+        <state line="21" column="0" selection-start="600" selection-end="600" vertical-scroll-proportion="0.28445005" vertical-offset="0" max-vertical-offset="791">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/model/Recipe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="31" selection-start="928" selection-end="928" vertical-scroll-proportion="0.5335821" vertical-offset="216" max-vertical-offset="1020">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Restorius/libs/Parse-1.3.3.jar!/com/parse/ParseQuery.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="56" selection-start="184" selection-end="195" vertical-scroll-proportion="-3.0" vertical-offset="0" max-vertical-offset="3240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/layout/recipe_search_grid.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="40" selection-start="799" selection-end="799" vertical-scroll-proportion="0.34749034" vertical-offset="0" max-vertical-offset="777">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/layout/activity_login.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="27" selection-start="221" selection-end="221" vertical-scroll-proportion="0.096525095" vertical-offset="0" max-vertical-offset="1455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/LoginOrSignup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="87" selection-start="2964" selection-end="2984" vertical-scroll-proportion="0.3529412" vertical-offset="990" max-vertical-offset="4290">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Restorius/src/main/res/layout/progress_bar.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="47" selection-start="102" selection-end="114" vertical-scroll-proportion="0.019305019" vertical-offset="0" max-vertical-offset="777">
+          <folding>
+            <element signature="e#1048#1065#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/res/layout/activity_select_users.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="5" selection-start="554" selection-end="554" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lib/android/sdk/sources/android-17/android/app/ListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="263" column="16" selection-start="10401" selection-end="10401" vertical-scroll-proportion="0.43615675" vertical-offset="3255" max-vertical-offset="4530">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/RecipeDashboardActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="50" selection-start="1548" selection-end="1548" vertical-scroll-proportion="0.5259166" vertical-offset="34" max-vertical-offset="825">
+          <folding>
+            <element signature="e#1344#1906#0" expanded="true" />
+            <element signature="e#1895#1896#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/TreehouseParseWorkshop_FINAL/src/com/teamtreehouse/parseworkshop/SelectUsersActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="38" selection-start="1931" selection-end="1931" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Restorius/src/main/java/com/gepsens/restorius/adapters/RecipesAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="67" selection-start="1658" selection-end="1658" vertical-scroll-proportion="0.6776233" vertical-offset="214" max-vertical-offset="1005">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -710,7 +1409,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>Android 4.2.2 Platform (1)</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -722,7 +1421,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Restorius</last-edited>
+          <last-edited>RestoriusProject</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
